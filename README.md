@@ -6,7 +6,7 @@ Welcome to the world of open source and version control! Cloning a repository is
 # Prerequisites
 Before we begin, ensure you have the following:
 
-Git Installed: You'll need Git on your computer. You can download it here and follow the installation instructions for your operating system.
+Git Installed: You'll need Git on your computer. You can download it here (https://git-scm.com/downloads) and follow the installation instructions for your operating system.
 
 GitHub/GitLab/Bitbucket Account: If you're using a Git-based platform like GitHub, GitLab, or Bitbucket, create an account if you don't have one already.
 
