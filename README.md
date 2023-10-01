@@ -16,7 +16,7 @@ Find a Repository: First, browse to a repository on GitHub (or your chosen Git p
 Copy Repository URL: Look for a green button labeled "Code" or "Clone" on the repository's page. Click it to reveal the repository's URL. Click the copy icon next to the URL to copy it to your clipboard.
 
 
-Open Terminal/Command Prompt: Open your computer's terminal (Linux/macOS) or Command Prompt (Windows).
+Open Terminal/Command Prompt: Open your computer's terminal (Linux/macOS) or Command Prompt/git bash (Windows).
 
 Navigate to Desired Directory: Use the cd command to navigate to the directory where you want to store your local copy of the repository. For example, if you want to store it in your Documents folder, you can type:
 
